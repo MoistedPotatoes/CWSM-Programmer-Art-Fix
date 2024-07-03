@@ -1,5 +1,6 @@
 # CWSM-Programmer-Art-Fix
 This is a Resource Pack for Crackers Wither Storm Mod that changes its textures to match with their Programmer Art Counterparts.
+You are free to use these textures as long as credit is given
 
 Credits:
 
