@@ -2,7 +2,7 @@ This is a Resource Pack for Crackers Wither Storm Mod that changes its textures 
 
 Credits:
 
-THGABS: Programmer Art styled Crossbow and Spyglass
+THGABS: Programmer Art Fix Resource Pack
 
 Mojang: Programmer Art Textures
 
